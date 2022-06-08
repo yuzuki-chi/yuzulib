@@ -1,0 +1,16 @@
+{
+    "name": "yuzulib/yuzulib",
+    "description": "yuzulib",
+    "type": "library",
+    "version": "0.0.1",
+    "autoload": {
+        "psr-4": {
+            "YuzuLib\\YuzuLib\\" : "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "YuzuLib\\Test\\" : "test/"
+        }
+    }
+}
