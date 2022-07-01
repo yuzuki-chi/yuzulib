@@ -1,3 +1,3 @@
 # yuzulib
 
-This is Yuzukichi Lib
+This is Yuzukichi Lib.
