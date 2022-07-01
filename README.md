@@ -1,3 +1,7 @@
 # yuzulib
 
-This is Yuzukichi Lib
+This is Yuzukichi Library. 
+
+```bash
+~$ conposer install
+```
