@@ -20,5 +20,5 @@ else
     echo 'Remote branch is changed' >> "$CWD/git-cron.log"
     git pull origin main
 
-    curl -X POST -H 'Content-type: application/json' --data '{"text":"Hello, World!"}' $(echo webhookurl)
+    curl -X POST -H 'Content-type: application/json' --data '{"text":"Hello, World!"}' $(echo .webhookurl)
 fi
